@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marycodes92/My-TodoApp/static/css/main.b99c730f.chunk.css",
+    "main.js": "/marycodes92/My-TodoApp/static/js/main.fac0b4d3.chunk.js",
+    "main.js.map": "/marycodes92/My-TodoApp/static/js/main.fac0b4d3.chunk.js.map",
+    "runtime-main.js": "/marycodes92/My-TodoApp/static/js/runtime-main.621cdb2d.js",
+    "runtime-main.js.map": "/marycodes92/My-TodoApp/static/js/runtime-main.621cdb2d.js.map",
+    "static/js/2.d75add63.chunk.js": "/marycodes92/My-TodoApp/static/js/2.d75add63.chunk.js",
+    "static/js/2.d75add63.chunk.js.map": "/marycodes92/My-TodoApp/static/js/2.d75add63.chunk.js.map",
+    "static/js/3.99a4078e.chunk.js": "/marycodes92/My-TodoApp/static/js/3.99a4078e.chunk.js",
+    "static/js/3.99a4078e.chunk.js.map": "/marycodes92/My-TodoApp/static/js/3.99a4078e.chunk.js.map",
+    "index.html": "/marycodes92/My-TodoApp/index.html",
+    "static/css/main.b99c730f.chunk.css.map": "/marycodes92/My-TodoApp/static/css/main.b99c730f.chunk.css.map",
+    "static/js/2.d75add63.chunk.js.LICENSE.txt": "/marycodes92/My-TodoApp/static/js/2.d75add63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.621cdb2d.js",
+    "static/js/2.d75add63.chunk.js",
+    "static/css/main.b99c730f.chunk.css",
+    "static/js/main.fac0b4d3.chunk.js"
+  ]
+}
