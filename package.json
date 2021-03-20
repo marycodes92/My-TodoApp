@@ -2,7 +2,6 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/marycodes92/My-TodoApp",
   "dependencies": {
     "@craco/craco": "^6.1.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
@@ -18,8 +17,6 @@
   },
   "scripts": {
     "start": "craco start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
